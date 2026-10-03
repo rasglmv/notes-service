@@ -29,3 +29,14 @@ PUT /notes/{id}
 DELETE /notes/{id}
 
 Удаляет заметку.
+
+
+## Формат заметки
+
+Каждая заметка содержит:
+
+- id;
+- title;
+- text;
+- createdAt;
+- updatedAt.
